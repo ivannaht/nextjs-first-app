@@ -7,3 +7,4 @@ const PrismaExamplePage = () => {
   };
   
   export default PrismaExamplePage;
+  

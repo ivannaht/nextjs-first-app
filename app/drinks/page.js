@@ -7,3 +7,4 @@ const DrinksPage = () => {
   };
   
   export default DrinksPage;
+  
